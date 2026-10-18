@@ -1,0 +1,12 @@
+{
+  "name": "tars-career-counsellor",
+  "version": "1.0.0",
+  "private": true,
+  "description": "TARS career counselling MVP",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
